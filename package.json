@@ -4,9 +4,9 @@
   "description": "Class project for liri",
   "main": "keys.js",
   "dependencies": {
-    "node-spotify-api": "^1.0.7",
-    "request": "^2.82.0",
-    "twitter": "^1.7.1"
+    "node-spotify-api": "1.0.7",
+    "request": "2.82.0",
+    "twitter": "1.7.1"
   },
   "devDependencies": {},
   "scripts": {

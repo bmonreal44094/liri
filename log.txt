@@ -1,0 +1,620 @@
+﻿
+--------------------------
+Command Info
+Time Stamp: 1506273282359
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: 
+Agrv 3: 
+
+--------------------------
+Command Info
+Time Stamp: 1506273286317
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: spotify-this-song
+Agrv 3: song,remains,the,same
+
+Song Data
+Song: Houses Of The Holy
+Artist: Led Zeppelin
+Album: The Song Remains The Same
+Check it out at: https://p.scdn.co/mp3-preview/837f45829ad807333b477953ac402632961d57f4?cid=dadf41c7515f40f989997824f1f05f46
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506273296479
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: movie-this
+Agrv 3: jason,bourne
+
+Movie Data
+Movie Title: Jason Bourne
+Year: 2016
+Rating: 6.7
+Rotten Tomatoes Rating: 55%
+Country where produced: UK, China, USA
+Language: English, Greek, German
+Plot: The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.
+Actors:Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506273314610
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: do-what-it-says
+Agrv 3: 
+
+--------------------------
+Command Info
+Time Stamp: 1506273314610
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: spotify-this-song
+Agrv 3: "I Want it That Way"
+
+Song Data
+Song: The Hits--Chapter One
+Artist: Backstreet Boys
+Album: I Want It That Way
+Check it out at: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dadf41c7515f40f989997824f1f05f46
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506273328905
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #4
+Family means unconditional, whereas high-performance teams are highly, highly conditional... https://t.co/EnMzf27Yeg via @jensinkler
+Time: Wed May 20 16:07:23 +0000 2015
+--------------------------
+--------------------------
+Tweet #5
+Pimp vs Sugga Daddy!!!  Focus-IT Having Some Fun!: http://t.co/xivlaNo38P @katemcneill1833
+Time: Sat Feb 14 00:54:21 +0000 2015
+--------------------------
+--------------------------
+Tweet #6
+RT @MonrealCC: Want to learn more about Focus-IT? Watch our new video! http://t.co/NNR5hCuIVd
+Time: Mon Feb 02 02:15:13 +0000 2015
+--------------------------
+--------------------------
+Tweet #7
+@MonrealCC  Who's your daddy!
+Time: Mon Feb 02 02:14:10 +0000 2015
+--------------------------
+--------------------------
+Tweet #8
+#AllForCLE
+Time: Thu Oct 30 22:35:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #9
+RT @LeoKing11: Why This Expert Foresees A Women In Tech Triumph http://t.co/BWa5p0OCwR #womenintech @ForbesEurope @PurposefulWoman http://t…
+Time: Fri Oct 03 04:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #10
+RT @Slate: Astronomers have discovered what is now the oldest known star in the universe: http://t.co/YrjLQXYjIC http://t.co/k9MOQQjoHT
+Time: Sun Sep 28 22:24:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #11
+RT @AerialCleveland: Clevelands waterfront is beautiful. @ShareTheRiver @happyincle @ThisIsCleveland #ThisisCLE @wkyc #dronestagram http://…
+Time: Sun Sep 28 22:21:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #12
+RT @glanzpiece: Tens of thousands of young protestors are demonstrating in Hong Kong #OccupyCentral http://t.co/89Scex8lxd (Getty) http://t…
+Time: Sun Sep 28 22:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #13
+RT @PIFFCleveland: Tickets are going fast for the November 21st Fundraiser! Purchase your tickets at http://t.co/lv2pu82r8T! #NEOhio http:/…
+Time: Sun Sep 28 03:57:55 +0000 2014
+--------------------------
+--------------------------
+Tweet #14
+@BernieKosarQB is Scott running in this?
+Time: Wed Sep 24 21:30:36 +0000 2014
+--------------------------
+--------------------------
+Tweet #1
+@stipemiocicufc putting Eastlake on the map and the first of many huge wins for Cleveland!
+Time: Thu May 19 14:54:59 +0000 2016
+--------------------------
+--------------------------
+Tweet #16
+RT @fox8news: Apple pulls iOS 8 software update after complaints from iPhone users http://t.co/N6YtGOyBwf via @fox8news
+Time: Wed Sep 24 21:22:32 +0000 2014
+--------------------------
+--------------------------
+Tweet #17
+@lminarich good luck on the marathon!
+Time: Wed Sep 24 21:20:12 +0000 2014
+--------------------------
+--------------------------
+Tweet #18
+@Christo68629549 did you figure it out?
+Time: Wed Sep 24 13:07:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #19
+Not even 1 letter! http://t.co/XtEZcVkLLL
+Time: Wed Sep 24 03:48:33 +0000 2014
+--------------------------
+--------------------------
+Tweet #3
+@PsFerracane Welcome to Twitter!
+Time: Fri Dec 04 23:01:27 +0000 2015
+--------------------------
+--------------------------
+Tweet #2
+@fxnscitech @FoxNews @LiveScience
+Time: Thu May 19 14:50:08 +0000 2016
+--------------------------
+--------------------------
+Tweet #15
+@jimrome but the iPhone "just works," doesn't it?
+Time: Wed Sep 24 21:27:17 +0000 2014
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506276095396
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #3
+@PsFerracane Welcome to Twitter!
+Time: Fri Dec 04 23:01:27 +0000 2015
+--------------------------
+--------------------------
+Tweet #1
+@stipemiocicufc putting Eastlake on the map and the first of many huge wins for Cleveland!
+Time: Thu May 19 14:54:59 +0000 2016
+--------------------------
+--------------------------
+Tweet #4
+Family means unconditional, whereas high-performance teams are highly, highly conditional... https://t.co/EnMzf27Yeg via @jensinkler
+Time: Wed May 20 16:07:23 +0000 2015
+--------------------------
+--------------------------
+Tweet #2
+@fxnscitech @FoxNews @LiveScience
+Time: Thu May 19 14:50:08 +0000 2016
+--------------------------
+--------------------------
+Tweet #6
+RT @MonrealCC: Want to learn more about Focus-IT? Watch our new video! http://t.co/NNR5hCuIVd
+Time: Mon Feb 02 02:15:13 +0000 2015
+--------------------------
+--------------------------
+Tweet #7
+@MonrealCC  Who's your daddy!
+Time: Mon Feb 02 02:14:10 +0000 2015
+--------------------------
+--------------------------
+Tweet #5
+Pimp vs Sugga Daddy!!!  Focus-IT Having Some Fun!: http://t.co/xivlaNo38P @katemcneill1833
+Time: Sat Feb 14 00:54:21 +0000 2015
+--------------------------
+--------------------------
+Tweet #8
+#AllForCLE
+Time: Thu Oct 30 22:35:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #9
+RT @LeoKing11: Why This Expert Foresees A Women In Tech Triumph http://t.co/BWa5p0OCwR #womenintech @ForbesEurope @PurposefulWoman http://t…
+Time: Fri Oct 03 04:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #11
+RT @AerialCleveland: Clevelands waterfront is beautiful. @ShareTheRiver @happyincle @ThisIsCleveland #ThisisCLE @wkyc #dronestagram http://…
+Time: Sun Sep 28 22:21:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #10
+RT @Slate: Astronomers have discovered what is now the oldest known star in the universe: http://t.co/YrjLQXYjIC http://t.co/k9MOQQjoHT
+Time: Sun Sep 28 22:24:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #13
+RT @PIFFCleveland: Tickets are going fast for the November 21st Fundraiser! Purchase your tickets at http://t.co/lv2pu82r8T! #NEOhio http:/…
+Time: Sun Sep 28 03:57:55 +0000 2014
+--------------------------
+--------------------------
+Tweet #17
+@lminarich good luck on the marathon!
+Time: Wed Sep 24 21:20:12 +0000 2014
+--------------------------
+--------------------------
+Tweet #16
+RT @fox8news: Apple pulls iOS 8 software update after complaints from iPhone users http://t.co/N6YtGOyBwf via @fox8news
+Time: Wed Sep 24 21:22:32 +0000 2014
+--------------------------
+--------------------------
+Tweet #12
+RT @glanzpiece: Tens of thousands of young protestors are demonstrating in Hong Kong #OccupyCentral http://t.co/89Scex8lxd (Getty) http://t…
+Time: Sun Sep 28 22:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #18
+@Christo68629549 did you figure it out?
+Time: Wed Sep 24 13:07:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #14
+@BernieKosarQB is Scott running in this?
+Time: Wed Sep 24 21:30:36 +0000 2014
+--------------------------
+--------------------------
+Tweet #15
+@jimrome but the iPhone "just works," doesn't it?
+Time: Wed Sep 24 21:27:17 +0000 2014
+--------------------------
+--------------------------
+Tweet #19
+Not even 1 letter! http://t.co/XtEZcVkLLL
+Time: Wed Sep 24 03:48:33 +0000 2014
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506276149487
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #1
+@stipemiocicufc putting Eastlake on the map and the first of many huge wins for Cleveland!
+Time: Thu May 19 14:54:59 +0000 2016
+--------------------------
+--------------------------
+Tweet #2
+@fxnscitech @FoxNews @LiveScience
+Time: Thu May 19 14:50:08 +0000 2016
+--------------------------
+--------------------------
+Tweet #3
+@PsFerracane Welcome to Twitter!
+Time: Fri Dec 04 23:01:27 +0000 2015
+--------------------------
+--------------------------
+Tweet #5
+Pimp vs Sugga Daddy!!!  Focus-IT Having Some Fun!: http://t.co/xivlaNo38P @katemcneill1833
+Time: Sat Feb 14 00:54:21 +0000 2015
+--------------------------
+--------------------------
+Tweet #4
+Family means unconditional, whereas high-performance teams are highly, highly conditional... https://t.co/EnMzf27Yeg via @jensinkler
+Time: Wed May 20 16:07:23 +0000 2015
+--------------------------
+--------------------------
+Tweet #7
+@MonrealCC  Who's your daddy!
+Time: Mon Feb 02 02:14:10 +0000 2015
+--------------------------
+--------------------------
+Tweet #6
+RT @MonrealCC: Want to learn more about Focus-IT? Watch our new video! http://t.co/NNR5hCuIVd
+Time: Mon Feb 02 02:15:13 +0000 2015
+--------------------------
+--------------------------
+Tweet #9
+RT @LeoKing11: Why This Expert Foresees A Women In Tech Triumph http://t.co/BWa5p0OCwR #womenintech @ForbesEurope @PurposefulWoman http://t…
+Time: Fri Oct 03 04:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #10
+RT @Slate: Astronomers have discovered what is now the oldest known star in the universe: http://t.co/YrjLQXYjIC http://t.co/k9MOQQjoHT
+Time: Sun Sep 28 22:24:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #11
+RT @AerialCleveland: Clevelands waterfront is beautiful. @ShareTheRiver @happyincle @ThisIsCleveland #ThisisCLE @wkyc #dronestagram http://…
+Time: Sun Sep 28 22:21:06 +0000 2014
+--------------------------
+--------------------------
+Tweet #12
+RT @glanzpiece: Tens of thousands of young protestors are demonstrating in Hong Kong #OccupyCentral http://t.co/89Scex8lxd (Getty) http://t…
+Time: Sun Sep 28 22:16:22 +0000 2014
+--------------------------
+--------------------------
+Tweet #13
+RT @PIFFCleveland: Tickets are going fast for the November 21st Fundraiser! Purchase your tickets at http://t.co/lv2pu82r8T! #NEOhio http:/…
+Time: Sun Sep 28 03:57:55 +0000 2014
+--------------------------
+--------------------------
+Tweet #14
+@BernieKosarQB is Scott running in this?
+Time: Wed Sep 24 21:30:36 +0000 2014
+--------------------------
+--------------------------
+Tweet #15
+@jimrome but the iPhone "just works," doesn't it?
+Time: Wed Sep 24 21:27:17 +0000 2014
+--------------------------
+--------------------------
+Tweet #16
+RT @fox8news: Apple pulls iOS 8 software update after complaints from iPhone users http://t.co/N6YtGOyBwf via @fox8news
+Time: Wed Sep 24 21:22:32 +0000 2014
+--------------------------
+--------------------------
+Tweet #8
+#AllForCLE
+Time: Thu Oct 30 22:35:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #17
+@lminarich good luck on the marathon!
+Time: Wed Sep 24 21:20:12 +0000 2014
+--------------------------
+--------------------------
+Tweet #18
+@Christo68629549 did you figure it out?
+Time: Wed Sep 24 13:07:51 +0000 2014
+--------------------------
+--------------------------
+Tweet #19
+Not even 1 letter! http://t.co/XtEZcVkLLL
+Time: Wed Sep 24 03:48:33 +0000 2014
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506276209059
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #1
+Boot Camp Mania is Running Wild
+Time: Sun Sep 24 18:01:23 +0000 2017
+--------------------------
+--------------------------
+Tweet #2
+Living the dream
+Time: Sun Sep 24 18:00:50 +0000 2017
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506276377902
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #1
+0000000000
+Time: Sun Sep 24 18:06:10 +0000 2017
+--------------------------
+--------------------------
+Tweet #2
+999999999
+Time: Sun Sep 24 18:06:04 +0000 2017
+--------------------------
+--------------------------
+Tweet #6
+55555
+Time: Sun Sep 24 18:05:42 +0000 2017
+--------------------------
+--------------------------
+Tweet #4
+7777777
+Time: Sun Sep 24 18:05:50 +0000 2017
+--------------------------
+--------------------------
+Tweet #8
+333
+Time: Sun Sep 24 18:05:35 +0000 2017
+--------------------------
+--------------------------
+Tweet #3
+88888888
+Time: Sun Sep 24 18:05:54 +0000 2017
+--------------------------
+--------------------------
+Tweet #5
+666666
+Time: Sun Sep 24 18:05:46 +0000 2017
+--------------------------
+--------------------------
+Tweet #7
+4444
+Time: Sun Sep 24 18:05:38 +0000 2017
+--------------------------
+--------------------------
+Tweet #9
+22
+Time: Sun Sep 24 18:05:32 +0000 2017
+--------------------------
+--------------------------
+Tweet #10
+1
+Time: Sun Sep 24 18:05:28 +0000 2017
+--------------------------
+--------------------------
+Tweet #11
+When will this be done?
+Time: Sun Sep 24 18:05:15 +0000 2017
+--------------------------
+--------------------------
+Tweet #12
+What's Shakin?
+Time: Sun Sep 24 18:05:06 +0000 2017
+--------------------------
+--------------------------
+Tweet #13
+What's up?
+Time: Sun Sep 24 18:04:59 +0000 2017
+--------------------------
+--------------------------
+Tweet #14
+How many more of these do I have to do?
+Time: Sun Sep 24 18:04:50 +0000 2017
+--------------------------
+--------------------------
+Tweet #15
+Stand up and put your hand on your heart for the flag.  Together we stand, divided we fall.
+Time: Sun Sep 24 18:04:37 +0000 2017
+--------------------------
+--------------------------
+Tweet #16
+The Indians are on fire!
+Time: Sun Sep 24 18:04:10 +0000 2017
+--------------------------
+--------------------------
+Tweet #17
+Will the Browns have a good team in 2021?
+Time: Sun Sep 24 18:03:59 +0000 2017
+--------------------------
+--------------------------
+Tweet #18
+Who is your daddy?
+Time: Sun Sep 24 18:03:46 +0000 2017
+--------------------------
+--------------------------
+Tweet #19
+Boot Camp Mania is Running Wild
+Time: Sun Sep 24 18:01:23 +0000 2017
+--------------------------
+--------------------------
+Tweet #20
+Living the dream
+Time: Sun Sep 24 18:00:50 +0000 2017
+--------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506276418596
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: my-tweets
+Agrv 3: 
+
+Tweet Data
+--------------------------
+Tweet #3
+88888888
+Time: Sun Sep 24 18:05:54 +0000 2017
+--------------------------
+--------------------------
+Tweet #2
+999999999
+Time: Sun Sep 24 18:06:04 +0000 2017
+--------------------------
+--------------------------
+Tweet #1
+0000000000
+Time: Sun Sep 24 18:06:10 +0000 2017
+--------------------------
+--------------------------
+Tweet #4
+7777777
+Time: Sun Sep 24 18:05:50 +0000 2017
+--------------------------
+--------------------------
+Tweet #6
+55555
+Time: Sun Sep 24 18:05:42 +0000 2017
+--------------------------
+--------------------------
+Tweet #5
+666666
+Time: Sun Sep 24 18:05:46 +0000 2017
+--------------------------
+--------------------------
+Tweet #7
+4444
+Time: Sun Sep 24 18:05:38 +0000 2017
+--------------------------
+--------------------------
+Tweet #9
+22
+Time: Sun Sep 24 18:05:32 +0000 2017
+--------------------------
+--------------------------
+Tweet #10
+1
+Time: Sun Sep 24 18:05:28 +0000 2017
+--------------------------
+--------------------------
+Tweet #8
+333
+Time: Sun Sep 24 18:05:35 +0000 2017
+--------------------------
+--------------------------
+Tweet #11
+When will this be done?
+Time: Sun Sep 24 18:05:15 +0000 2017
+--------------------------
+--------------------------
+Tweet #12
+What's Shakin?
+Time: Sun Sep 24 18:05:06 +0000 2017
+--------------------------
+--------------------------
+Tweet #13
+What's up?
+Time: Sun Sep 24 18:04:59 +0000 2017
+--------------------------
+--------------------------
+Tweet #15
+Stand up and put your hand on your heart for the flag.  Together we stand, divided we fall.
+Time: Sun Sep 24 18:04:37 +0000 2017
+--------------------------
+--------------------------
+Tweet #16
+The Indians are on fire!
+Time: Sun Sep 24 18:04:10 +0000 2017
+--------------------------
+--------------------------
+Tweet #14
+How many more of these do I have to do?
+Time: Sun Sep 24 18:04:50 +0000 2017
+--------------------------
+--------------------------
+Tweet #17
+Will the Browns have a good team in 2021?
+Time: Sun Sep 24 18:03:59 +0000 2017
+--------------------------
+--------------------------
+Tweet #18
+Who is your daddy?
+Time: Sun Sep 24 18:03:46 +0000 2017
+--------------------------
+--------------------------
+Tweet #19
+Boot Camp Mania is Running Wild
+Time: Sun Sep 24 18:01:23 +0000 2017
+--------------------------
+--------------------------
+Tweet #20
+Living the dream
+Time: Sun Sep 24 18:00:50 +0000 2017
+--------------------------
