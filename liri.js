@@ -11,7 +11,7 @@ var defaultSong = "The Sign";
 var defaultMovie = "Mr. Nobody";
 var timeStamp = Date.now();
 
-//The list of most current 20 tweets from Twitter
+//Dispalys a list of most current 20 tweets from a bogus Twitter account
 var currentTweets = function() {
 
 	var twitterCall = new Twitter(
@@ -58,11 +58,11 @@ var currentTweets = function() {
 	}); 
 };
 
-//Displays the information on a specific user input about a song
+//Displays the information on a specific song from spotify
 var spotify = function(value) {
 	var spotify = new Spotify({
-		id: "dadf41c7515f40f989997824f1f05f46",
-		secret: "8b1324be92fe4c7d8bdb34b0114d84cb"
+		id: keys.spotifyKeys.id,
+		secret: keys.spotifyKeys.secret
 		});
 
 	var song = value;
@@ -92,7 +92,7 @@ var spotify = function(value) {
     });
 };      
 
-//Movie function calls from OMDB API to gather movie data
+//Displays the information on a specific moive from OMDB API to gather movie data
 var movie = function(value) {
 
     var movieName = value;
@@ -138,6 +138,7 @@ var movie = function(value) {
     });     
 };
 
+//Reads a text file to pull data and then re-runs the actionSwitch function
 var readTxtFile = function() {
 	fs.readFile("random.txt", "utf8", function(error, data) {
 		if (error) {
@@ -150,7 +151,7 @@ var readTxtFile = function() {
 	});
 };
 
-//If Else version of selector
+//If Else version of selector which processes the process.argv from the command line
 var actionSwitch = function(action, value) {
 	var command = "\r\n--------------------------\r\n" + "Command Info" + "\r\n" + "Time Stamp: " + timeStamp + "\r\n" + "Agrv 0: " + process.argv[0] + "\r\n" + "Argv 1: " + process.argv[1] + "\r\n" + "Agrv 2: " + action + "\r\n" + "Agrv 3: " + value + "\r\n";
 	fs.appendFile("log.txt", command, function(err) {

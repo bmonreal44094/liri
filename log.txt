@@ -618,3 +618,26 @@ Tweet #20
 Living the dream
 Time: Sun Sep 24 18:00:50 +0000 2017
 --------------------------
+
+--------------------------
+Command Info
+Time Stamp: 1506357218539
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: 
+Agrv 3: 
+
+--------------------------
+Command Info
+Time Stamp: 1506357252335
+Agrv 0: C:\Program Files\nodejs\node.exe
+Argv 1: C:\BootCamp\HomeWork\2017-09-25\liri\liri
+Agrv 2: spotify-this-song
+Agrv 3: arms,of,the,angels
+
+Song Data
+Song: Songs of Anarchy: Vol. 3 (Music from Sons of Anarchy)
+Artist: Maggie Siff
+Album: Lullaby for a Soldier (Arms of the Angels) - from Sons of Anarchy
+Check it out at: https://p.scdn.co/mp3-preview/a35cfb89e57c7864e08c4af1068d09710f28388b?cid=dadf41c7515f40f989997824f1f05f46
+--------------------------
